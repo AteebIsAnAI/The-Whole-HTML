@@ -5,3 +5,5 @@ Course link-
 https://www.udemy.com/share/101QIUAEcZclxTR3gF/
 
 If you want you can join the course too it's a great and value for money course.
+
+If you feel something is missing pls tell me using pull requests(only if its important).
